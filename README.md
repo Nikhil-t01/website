@@ -12,3 +12,7 @@ This is just a readme file
 
 The purpose of this file is to provide examples
 on how to use git and github
+
+## Getting Started
+
+To get started with this project, just `clone` this repository
